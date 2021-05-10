@@ -57,9 +57,9 @@ class MyAppState extends State<MyApp> {
         'questionText': 'Who\'s your favorite instructor?',
         'answers': [
           {'text': 'Max', 'score': 1},
-          {'text': 'Max', 'score': 1},
-          {'text': 'Max', 'score': 1},
-          {'text': 'Max', 'score': 1},
+          {'text': 'Min', 'score': 1},
+          {'text': 'Mid', 'score': 1},
+          {'text': 'Null', 'score': 1},
         ],
       },
     ];
